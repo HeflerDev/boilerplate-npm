@@ -1,6 +1,14 @@
 {
 	"name": "Hefler",
 	"author": "HeflerDev",
+	"description": "A project that does something",
+	"keywords": [
+		"something",
+		"descriptive",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
