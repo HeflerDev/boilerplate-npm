@@ -1,5 +1,6 @@
 {
 	"name": "Hefler",
+	"author": "HeflerDev",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
